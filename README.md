@@ -38,6 +38,7 @@ Withdrawable now   : $154.95
   you calculate anything else.
 
 Full write-ups from the same author:
+- [Withdrawable amount calculator: the full subtraction chain](https://brainresearchhub.net/research/withdrawal/withdrawable-amount-calculator)
 
 - [Polymarket withdrawals guide](https://brainresearchhub.net/research/withdrawal/polymarket-withdrawals-guide)
 - [pUSD-era withdrawals](https://brainresearchhub.net/research/withdrawal/pusd-era-withdrawals)
